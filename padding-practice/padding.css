@@ -1,0 +1,68 @@
+.page-button{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top:7px;
+    padding-bottom:7px ;
+    font-size: 16px;
+    margin: 4px;
+}
+.page-link{
+   margin-left:4px ;
+   margin-right:4px ;
+   font-size: 18px;
+}
+.stretch-button{
+    background-color: rgb(2, 117, 2);
+    color: white;
+    font-size: 15px;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    transition: padding 0.5s;
+    
+}
+.stretch-button:hover{
+padding-left:30px ;
+    padding-right:30px ;
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+
+.button-3d{ background-color: rgb(2, 117, 2);
+    color: white;
+    font-size: 15px;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.53);
+    transition: margin 0.15s;
+    
+
+}
+.button-3d:active{
+    margin-top:3px ;
+    margin-left: 3px;
+    box-shadow: none;
+}
+
+.mandp-button{
+    background-color: rgb(2, 117, 2);
+    color: white;
+    font-size: 15px;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    margin-right: 25px;
+    margin-left: 25px;
+
+    transition: margin 0.15s,padding 0.15s;
+}
+.mandp-button:hover{
+    padding-left: 30px;
+    padding-right:30px ;
+    margin-right: 10px;
+    margin-left: 10px;
+}
