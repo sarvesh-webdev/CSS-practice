@@ -7,6 +7,9 @@ This repository contains my personal CSS practice modules. Each folder focuses o
 - `button-practice/`  
   A simple collection of plain buttons created using HTML and CSS.  — just foundational button markup and basic styling.
 
+- `padding-practice/`
+  collection of button created using padding insted of height and width property i used before and add transitions.
+
 ## 🛠️ What's Next
 
 As I continue learning, I’ll add more folders like:
