@@ -1,0 +1,144 @@
+.text1{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 30px;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.text2a{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom:5px;
+}
+.text2b{font-family: arial;
+
+    font-size: 17px;
+    color: rgb(209, 4, 4);
+    font-style: italic;
+
+}
+
+.text3a{ 
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+
+}
+.text3b{
+    font-family: verdana;
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 16px;
+}
+.text3c{
+    font-family: verdana;
+    font-size: 15px;
+    width: 280px;
+    margin-bottom: 16px;
+}
+.text3-button{
+    color: white;
+    background-color: rgb(3, 165, 3);
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    border: solid;
+    border-radius: 6px;
+}
+
+.text4a{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.text4b{
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.text4c{
+    font-family: arial;
+    font-size: 15px;
+    text-align: center;
+    color: rgb(67, 67, 214);
+}
+.text5a{
+    color: rgb(160, 2, 2);
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+    font-family: arial;
+}
+.text5b{
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 0px;
+    font-family: arial;
+}
+.text5c{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: arial;
+    margin-bottom: 9px;
+}
+.text5d{
+    font-family: arial;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 9px;
+}
+.divb{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.text5-button{
+    color: white;
+    background-color: rgb(83, 83, 250);
+    border-radius: 15px;
+    padding: 4px 15px;
+}
+.text6a{
+    margin-bottom: 6px;
+}
+.word6a{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 7px;
+}
+
+.word6b{
+    color: rgb(86, 86, 86);
+    font-weight: bold;
+    font-family: Arial;
+}
+.text6b{
+    color: rgb(1, 101, 1);
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 15px;
+    margin-bottom: 7px;
+
+}
+.text6c-word1{
+    color: rgb(86, 86, 86);
+    font-weight: 600;
+    margin-right: 4px;
+
+}
+.text6c-word2{
+    color: rgb(111, 3, 3);
+     font-weight: 600;
+}
+
