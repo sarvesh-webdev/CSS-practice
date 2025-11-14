@@ -1,0 +1,43 @@
+.img1{
+    width: 200px;
+    border-radius: 20px;
+}
+p{
+    font-weight: bold;
+    font-size: 17px;
+
+}
+
+.textsub{
+    margin-right: 120px;
+}
+.img2a{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    object-position: center;
+
+}
+.img2b{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    object-position: right;
+}
+.img2c{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    object-position: left;
+}
+
+.img2-box{
+    
+    margin-right: 10px;
+}
+.img3{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 150px;
+}
