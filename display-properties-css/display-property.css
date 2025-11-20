@@ -1,0 +1,119 @@
+.box1a,.box1b{
+    display: block;
+    margin-bottom: 9px;
+}
+
+
+.text2{
+    font-family: arial;
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+}
+ .button2a,.button2b{
+    vertical-align: middle;
+ }
+
+ .google{
+    width: 150px;
+    margin-left: 200px;
+    display: block;
+ }
+ .box3{
+    
+    height: 25px;
+    width: 400px;
+    padding: 2px 4px;
+    border-radius: 40px;
+    border: none;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    margin-left: 70px;
+    margin-bottom: 50px;
+
+
+ }
+
+ .box4a,
+ .box4b{
+   height: 25px;
+   width: 120px;
+   padding: 2px 4px;
+   border-radius: 7px;
+   border: 2px solid rgb(209, 208, 208);
+   margin-bottom: 10px;
+
+ }
+
+ .box4c{
+   display: block;
+   height: 25px;
+   width: 255px;
+   padding: 2px 4px;
+   border-radius: 7px;
+   border: 2px solid rgb(209, 208, 208);
+   margin-bottom: 10px;
+
+ }
+
+ .button4{
+   font-size: 15px;
+   font-weight: bold;
+   color: white;
+   background-color: rgb(87, 87, 243);
+   padding: 11px 104px;
+   border-radius: 8px;
+ }
+
+ .signup{
+   margin-top: 40px;
+   margin-left: 150px;
+   margin-bottom: 40px;
+ }
+
+ .title5{
+   font-family: arial;
+   font-size: 30px;
+   margin-bottom: 0;
+ }
+
+ .box5a,.box5b{
+   display: block;
+   background-color: rgb(247, 246, 246);
+   padding-left: 15px;
+   height: 35px;
+   width: 250px;
+   border: none;
+ }
+ .box5a{
+   margin-top: 20px ;
+   margin-bottom: 8px;
+ }
+
+ .box5b{
+   margin-bottom: 30px;
+ }
+
+ .button5a,.button5b{
+   padding: 8px 15px;
+   font-weight: 600;
+ }
+ 
+ .button5a{
+   color: white;
+   background-color: black;
+   margin-right: 8px;
+ }
+
+ .button5b{
+   border: none;
+   padding: 10px 15px;
+   
+ }
+
+ .button5{
+   margin-bottom: 40px;
+ }
+
+ .uber{
+   margin-left: 150px;
+ }
