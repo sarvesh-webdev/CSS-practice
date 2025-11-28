@@ -1,0 +1,166 @@
+.div1{
+    background-color: rgb(244, 7, 7);
+    height: 100px;
+    width: 100px;
+    
+}
+
+.div2{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+.div3{
+    border: 1px solid rgb(166, 165, 165);
+    height: 100px;
+    width: 350px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+}
+.text3{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    font-family: arial;
+}
+.b3{
+    margin-left: 15px;
+}
+p{
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.div4{
+    background-color: rgb(32, 31, 31);
+    height: 80px;
+    width: 360px;
+    padding: 20px 15px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+}
+.text4a{
+    margin-left: 4px;
+    font-size: 22px;
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    margin-bottom: 15px;
+    
+}
+
+.text4b{
+    color: rgb(174, 173, 173);
+     margin-left: 4px;
+}
+   .img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 3px;
+   }
+
+   .box5{
+    height: 40px;
+    width: 200px;
+    border: none;
+   }
+   .button5{
+    color: white;
+    font-size: 15px;
+    background-color: rgb(76, 158, 239);
+    padding: 4px 14px;
+    border-radius: 15px;
+    border: none;
+   }
+   .div5{
+    padding: 8px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.212);
+    width: 350px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+   }
+   .img2{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+   }
+
+   .text6a{
+    font-weight: 600;
+    margin-bottom:5px ;
+    margin-left: 5px;
+   }
+
+   .text6b{
+    font-size: 15px;
+    color: gray;
+    margin-bottom:9px ;
+     margin-left: 5px;
+   }
+
+   .button6{
+    color: white;
+    background-color: rgb(45, 97, 237);
+    border: none;
+    padding: 7px 25px;
+    border-radius: 3px;
+     margin-left: 6px;
+    
+}
+
+   .div6{
+    
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.292);
+    height: 250px;
+    width: 150px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+   }
+
+   .div7a,.div7b,.div7c{
+     box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.292);
+    height: 250px;
+    width: 150px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    display: inline-block;
+    margin-right: 10px;
+
+   }
+
+   .img8{
+    width: 250px;
+    height: 130px;
+    object-fit: cover;
+    
+   }
+
+   .div8,.div8b{
+    text-align: center;
+
+
+   }
+
+   .box8{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.311);
+    padding: 2px 8px;
+    
+   }
+
+   .button8{
+    padding: 8px 11px;
+    border: none;
+    margin-right: 5px;
+   }
+   .div8b{
+    margin-top: 30px;
+   }
