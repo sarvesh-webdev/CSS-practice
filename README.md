@@ -27,6 +27,9 @@ Each folder focuses on a specific concept or component, helping me build confide
   - Input boxes and search bars with shadows
   - Multiple div layouts using `inline-block` and centered alignment
 
+- `google-font-practice`/  
+  Learned how to add and use **Google Fonts** in CSS. Practiced importing fonts via `<link>` in HTML and applying them to text elements with different weights and styles.
+
 ## 🛠️ What's Next
 As I continue learning, I’ll add more folders like:
 - `font-practice`/ – working with font families, alignment, and text decoration  
