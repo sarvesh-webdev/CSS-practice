@@ -52,7 +52,7 @@ It’s part of my journey to master CSS one concept at a time.
 - `button-practice`
   ![buttonpractice-screenshot](assets/button-practice.png)
 
-- `padding-practice`
+### `padding-practice`
   ![paddingpractice-gif](assets/padding-practice.gif)
 
 - `text-styling-practice`
