@@ -30,6 +30,11 @@ Each folder focuses on a specific concept or component, helping me build confide
 - `google-font-practice`/  
   Learned how to add and use **Google Fonts** in CSS. Practiced importing fonts via `<link>` in HTML and applying them to text elements with different weights and styles.
 
+- `nested-layout-technique`/  
+  Practicing the concept of **nested layouts** in CSS.  
+  - Understanding how one layout can live inside another  
+  - Using simple containers to structure sections
+
 ## 🛠️ What's Next
 As I continue learning, I’ll add more folders like:
 - `font-practice`/ – working with font families, alignment, and text decoration  
@@ -60,3 +65,6 @@ It’s part of my journey to master CSS one concept at a time.
   ![div-practice-gif](assets/div-practic.gif)
 - `google-font-practice`
   ![google-font-practice-img](assets/google-font-practice.png)
+
+- `nested-layout-technique`  
+  ![nested-layout-technique-img](assets/nested-layout.png)

@@ -1,0 +1,105 @@
+.div1a,.div1b,.div1c{
+    display: inline-block;
+    vertical-align:middle;
+
+}
+
+.button1{
+    color: white;
+    background-color: rgb(53, 154, 217);
+    padding: 5px 11px;
+    border-radius: 4px;
+    border: none;
+}
+
+.img1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+p{
+    margin:0;
+}
+.text1a{
+    font-weight: 600;
+
+}
+
+.text1c,.text1b{
+    color: gray;
+
+}
+.div1a{
+    margin-right: 5px;
+}
+.div1b{
+margin-right: 60px;
+}
+
+.div1{
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.215);
+    width: 230px;
+    padding: 5px 5px;
+    margin-bottom: 20px;
+
+}
+
+.img2a{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.img2a1{
+    height: 30px ;
+    width: 30px ;
+    border-radius: 50%;
+    
+}
+.text2a2{
+    color: rgb(62, 61, 61);
+    font-size: 14px;
+    
+}
+
+.div2a1,.div2a2{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 5px;
+}
+.button2a{
+    display: block;
+}
+.div2a,.div2b,.div2c{
+    border: none;
+    width: 150px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.355);
+    
+}
+.div2atext{
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+.text2a1{
+    font-weight: 600;
+    padding: 2px;
+    margin-bottom:5px;
+}
+
+.button2a{
+    padding: 6px 14px;
+    color: white;
+    background-color: rgb(64, 89, 251);
+    border-radius: 3px;
+    border: none;
+}
+
+.div2a,.div2b,.div2c{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.div2{
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
