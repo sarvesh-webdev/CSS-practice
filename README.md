@@ -49,22 +49,22 @@ Feel free to explore or fork this repo.
 It’s part of my journey to master CSS one concept at a time.
 
 ## 📷 SCREENSHOTS 
-- `button-practice`
+### `button-practice`
   ![buttonpractice-screenshot](assets/button-practice.png)
 
 ### `padding-practice`
   ![paddingpractice-gif](assets/padding-practice.gif)
 
-- `text-styling-practice`
+### `text-styling-practice`
   ![text-styling-practice-gif](assets/textstyling-practice.gif)
-- `img-styling-practice`
+### `img-styling-practice`
   ![img-styling-pracitice-img](assets/img-styling-practice.png)
-- `display-property-css`
+### `display-property-css`
   ![display-property-css-gif](assets/display%20property.gif)
-- `div-practice`
+### `div-practice`
   ![div-practice-gif](assets/div-practic.gif)
-- `google-font-practice`
+### `google-font-practice`
   ![google-font-practice-img](assets/google-font-practice.png)
 
-- `nested-layout-technique`  
+### `nested-layout-technique`  
   ![nested-layout-technique-img](assets/nested-layout.png)
