@@ -1,0 +1,39 @@
+.ytpage{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    column-gap: 15px;
+    row-gap: 20px;
+}
+
+p{
+    margin: 0;
+    font-family: roboto,arial;
+}
+
+.img1{
+    width: 100%;
+}
+
+.vidinfo{
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    column-gap: 10px;
+    margin-top: 4px;
+}
+
+.logo{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.title{
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.info1,.info2{
+    color: gray;
+    font-size: 13px;
+    margin-bottom: 2px;
+}

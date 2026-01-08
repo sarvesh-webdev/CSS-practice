@@ -35,6 +35,11 @@ Each folder focuses on a specific concept or component, helping me build confide
   - Understanding how one layout can live inside another  
   - Using simple containers to structure sections
 
+- `grid-practice`/
+  Practicing how to use grid in css
+  - Understanding grid properties
+  - creaging an incompleter clone of youtube just for practice of using grid
+
 ## 🛠️ What's Next
 As I continue learning, I’ll add more folders like:
 - `font-practice`/ – working with font families, alignment, and text decoration  
@@ -68,3 +73,6 @@ It’s part of my journey to master CSS one concept at a time.
 
 ### `nested-layout-technique`  
   ![nested-layout-technique-img](assets/nested-layout.png)
+
+### `grid-practice`
+  ![grid-practice-img](assets/grid-practice.png) 
