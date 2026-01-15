@@ -76,3 +76,6 @@ It’s part of my journey to master CSS one concept at a time.
 
 ### `grid-practice`
   ![grid-practice-img](assets/grid-practice.png) 
+
+### `yt using grid`
+  ![yt-using-grid](assets/yt%20clone%20grid.gif) 
