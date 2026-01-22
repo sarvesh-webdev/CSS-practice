@@ -1,0 +1,76 @@
+.textbox1{
+    border: 1px solid rgb(220, 220, 220);
+    padding: 5px 3px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.textbox2{
+    height: 25px;
+    width: 300px;
+    border: none;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.25);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.email{
+    color: rgb(40, 40, 40);
+    margin: 0px;
+}
+
+.textbox3{
+    margin-top: 6px;
+    border: 2px solid rgb(185, 185, 185) ;
+    width: 280px;
+    height: 19px;
+    margin-bottom: 3px;
+}
+
+.text3{
+    font-size: 11px;
+    width: 280px;
+    font-family: arial;
+}
+
+.text3-button{
+color: white;
+background-color: rgb(72, 72, 226);
+padding: 7px 90px;
+margin-top: 10px;
+border-radius: 45px;
+border: none;
+margin-bottom: 10px;
+}
+
+.img{
+    height: 40px;
+    width:40px;
+    object-fit: cover;
+    vertical-align: middle;
+    object-position: center;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+.textbox4{
+    height: 30px;
+    width: 200px;
+    vertical-align: middle;
+    border: none;
+}
+.tweet{
+    color: white;
+    background-color: rgb(70, 159, 243);
+    padding: 6px 15px;
+    border-radius: 15px;
+    border: none;
+}
+
+.textd4{
+    margin-top: 40px;
+    margin-left: 40px;
+}

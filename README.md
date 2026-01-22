@@ -40,6 +40,10 @@ Each folder focuses on a specific concept or component, helping me build confide
   - Understanding grid properties
   - creaging an incompleter clone of youtube just for practice of using grid
 
+- `textbox-practice`/
+   Practicing how to style textbox
+  - styling many text box of different different type as practice
+
 ## 🛠️ What's Next
 As I continue learning, I’ll add more folders like:
 - `font-practice`/ – working with font families, alignment, and text decoration  
@@ -79,3 +83,6 @@ It’s part of my journey to master CSS one concept at a time.
 
 ### `yt using grid`
   ![yt-using-grid](assets/yt%20clone%20grid.gif) 
+
+### `textbox-practice`
+  ![textbox-practice](assets/text-box-practice.png)
