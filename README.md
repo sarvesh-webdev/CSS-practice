@@ -38,11 +38,16 @@ Each folder focuses on a specific concept or component, helping me build confide
 - `grid-practice`/
   Practicing how to use grid in css
   - Understanding grid properties
-  - creaging an incompleter clone of youtube just for practice of using grid
+  - creating an incomplete clone of youtube just for practice of using grid
 
 - `textbox-practice`/
    Practicing how to style textbox
   - styling many text box of different different type as practice
+
+- `flex-practice`/
+   Practicing how to use flex in css
+   - Understanding flex properties and in which case they are used
+   - practicing how to use flex by creating things using flex
 
 ## 🛠️ What's Next
 As I continue learning, I’ll add more folders like:
@@ -86,3 +91,6 @@ It’s part of my journey to master CSS one concept at a time.
 
 ### `textbox-practice`
   ![textbox-practice](assets/text-box-practice.png)
+
+### `flex-practice`
+  ![flex-practice](assets/flex-practice.png)  
