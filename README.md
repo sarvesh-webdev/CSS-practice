@@ -49,6 +49,10 @@ Each folder focuses on a specific concept or component, helping me build confide
    - Understanding flex properties and in which case they are used
    - practicing how to use flex by creating things using flex
 
+- `Nested-Flexbox-practice`/
+    Practice Nested flex box technique
+    - understanding and using nested flex technique to create UI.
+    
 ## 🛠️ What's Next
 As I continue learning, I’ll add more folders like:
 - `font-practice`/ – working with font families, alignment, and text decoration  
@@ -94,3 +98,6 @@ It’s part of my journey to master CSS one concept at a time.
 
 ### `flex-practice`
   ![flex-practice](assets/flex-practice.png)  
+
+### `Nested-Flexbox-practice`
+  ![nested-flex-practice](assets/nested-flexbox.png)  

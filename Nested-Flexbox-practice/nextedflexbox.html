@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested flexbox practice</title>
+    <link rel="stylesheet" href="nestedflexbox.css">
+</head>
+<body>
+    <header><h1>Practicing Nested flexbox</h1></header>
+    <main>
+        <section>
+            <h2>1. Creating a flexbox with 2 elements (width100px and 200px). then make the first element a flexbox to create this design</h2>
+            <div class="main">
+                <div class="element1"><p class="item1">item1</p></div>
+                <div class="element2"></div>
+            </div>
+        </section>
+        <section><h2>2. Similar to above, using nested flexboxto create the design below</h2>
+            <div class="main">
+                <div class="element1"></div>
+                <div class="element2">
+                    <div>
+                        row1
+                    </div>
+                    <div class="rowmain"><p class="item2">row2</p>
+                    <p class="item2">row2</p></div>
+                 </div></div>
+            </div>
+
+        </section>
+        <section>
+            <h2>3. Using nested layouts technique to create this design.</h2>
+            <div class="mainbox">
+                <p class="title">ALL INBOXES</p>
+                <div class="note">
+                    <img src="img/hans-jurgen-mager-qQWV91TTBrE-unsplash copy.jpg" alt="polarbear" class="profilepic">
+                    <div>
+                        <p class="heading">Chewy Promotions Biggest sales of the year!</p>
+                        <p class="message">Hey there! We're writing to tell you about our...</p>
+                    </div>
+                    <p class="time">4:58 PM</p>
+                </div>
+
+            </div>
+        </section>
+        <section>
+            <h2>4. Creating same design using copies of above exercise</h2>
+            <div class="mainbox">
+                <p class="title">ALL INBOXES</p>
+                <div class="note">
+                    <img src="img/hans-jurgen-mager-qQWV91TTBrE-unsplash copy.jpg" alt="polarbear" class="profilepic">
+                    <div>
+                        <p class="heading2">Chewy Promotions </p>
+                        <p class="heading2a">Biggest sales of the year!</p>
+                        <p class="message">Hey there! We're writing to tell you about our...</p>
+                    </div>
+                    <p class="time">4:58 PM</p>
+                </div>
+                <div class="note">
+                    <img src="img/puppy-1903313_1280.jpg" alt="polarbear" class="profilepic">
+                    <div>
+                        <p class="heading2">Best Buy</p>
+                        <p class="heading2a">Your Best Buy eReceipt</p>
+                        <p class="message">Thank You for shopping at Best Buy, here is...</p>
+                    </div>
+                    <p class="time">12:58 PM</p>
+                </div>
+                <div class="note">
+                    <img src="img/simba-8618301_1280.jpg" alt="polarbear" class="profilepic">
+                    <div>
+                        <p class="heading2">Netflix </p>
+                        <p class="heading2a">Here's whats coming soon to Netflix </p>
+                        <p class="message">Hey there! We're writing to tell you about our...</p>
+                    </div>
+                    <p class="time">8:58 AM</p>
+                </div>
+                
+
+            </div>
+
+        </section>
+        <section>
+            <h2>5. Creating the desing below using nestedflexbox</h2>
+            <div class="post">
+                <img src="img/puppy-1903313_1280.jpg" alt="puppy" class="postimg">
+                <div class="textarea">
+                    <div>
+                        <p class="idname">supersimple.dev <span class="idnamea">@SuperSimpleDev</span></p>
+                        <p class="idtext">What is Backend web development?A complete overview. New video is up!</p>
+                    </div>
+                    <div class="ytlink">
+                        <div class="ytlinka"></div>
+                        <div class="ytlinkb"><p class="ytlinktexta">youtube.com</p>
+                        <p class="ytlinktextb">Backend web development - a complete overview(2021)</p></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+</body>
+</html>
