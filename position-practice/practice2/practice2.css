@@ -1,0 +1,24 @@
+.sidebar{
+    color: white;
+    background-color: green;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    top: 119px;
+    width: 100px;
+}
+
+body{
+    height: 3000px;
+    padding-top: 120px;
+    padding-right:110px ;
+}
+header{
+    position: fixed;
+    background-color: white;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 120px;
+    border-bottom:1px solid gray ;
+}
