@@ -11,12 +11,12 @@ Each folder focuses on a specific concept or component, helping me build confide
 
 - `padding-practice`/  
   A collection of buttons styled using padding instead of the height and width properties I used before. Also includes basic transitions.
-  - screenshot 
+  - screenshot <br>
    ![padding-practice](assets/padding-practice.gif)
 
 - `text-styling-practice`/  
   A set of exercises focused on styling text elements.
-  - screenshot 
+  - screenshot <br>
    ![text-styling-practice](assets/textstyling-practice.gif)
 
 - `img-styling-practice`/  
@@ -26,7 +26,7 @@ Each folder focuses on a specific concept or component, helping me build confide
 
 - `display-property-css`/  
   Learning how to use the CSS display property — especially inline and block — to control layout and styling. Includes examples that show how display types affect element behavior and spacing.
-  - screenshot 
+  - screenshot <br>
    ![display-property-css](assets/display%20property.gif)
 
 
@@ -37,7 +37,7 @@ Each folder focuses on a specific concept or component, helping me build confide
   - Image styling with `object-fit` and rounded corners
   - Input boxes and search bars with shadows
   - Multiple div layouts using `inline-block` and centered alignment
-  - screenshot 
+  - screenshot <br>
    ![div-practice](assets/div-practic.gif)
 
 - `google-font-practice`/  
