@@ -83,7 +83,7 @@ Each folder focuses on a specific concept or component, helping me build confide
 - `position-practice`/
     Practice display position fixed.
     - the folder contains 4 sub folder of practice of position fixed property
-    - screenshot 
+    - screenshot <br>
    ![position-practice](assets/position-practice.gif)   
     
 
