@@ -58,7 +58,7 @@ Each folder focuses on a specific concept or component, helping me build confide
   - creating an incomplete clone of youtube just for practice of using grid
   - screenshot 
    ![grid-practice](assets/grid-practice.png)
-  - yt using grid screenshot
+  - yt using grid screenshot <br>
    ![yt-using-grid](assets/yt%20clone%20grid.gif) 
 
 - `textbox-practice`/
@@ -84,7 +84,14 @@ Each folder focuses on a specific concept or component, helping me build confide
     Practice display position fixed.
     - the folder contains 4 sub folder of practice of position fixed property
     - screenshot <br>
-   ![position-practice](assets/position-practice.gif)   
+   ![position-practice](assets/position-practice.gif) 
+
+- `absolute&realtivePositionPractice`
+    Practicing display position relative and absolute
+    - the folder contains 1 practice file of me practicing this property
+    - this property help in positioning an element with reference to its parent element
+    - screenshot
+    ![absoulut&relativePositionPractice](assets/relative-absolute-position%20practice.png)
     
 
 ## 🎯 Goals
